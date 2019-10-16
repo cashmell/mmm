@@ -1,0 +1,451 @@
+#include <iostream>
+#include <stdlib.h>
+using namespace std;
+
+int main()
+{
+    system("COLOR 0A");
+
+    cout << "Author : CASHMELL JAMES SELASSIE QUARCOO , STUDENT" << endl;
+    cout << "****************************************************" << endl;
+    string name ,sur;      // declaring of variable
+    cout << "Enter student name " << endl;
+    cin >> name >> sur;
+
+    double score ,score1 ,score2 ,score3 ,score4;   // declaring of variable
+    double average;
+
+    cout << "Enter your Math score " << endl;   // accepting inputs of scores
+    cin >> score;
+
+    cout << "Enter your English score " << endl;
+    cin >> score1;
+
+    cout << "Enter your Science score " << endl;
+    cin >> score2;
+
+    cout << "Enter your Computing  score " << endl;
+    cin >> score3;
+
+    cout << "Enter your Software score " << endl;
+    cin >> score4;
+
+    average = score + score1 + score2 + score3 + score4;
+
+    if(average>=90)
+        cout << "Your grade is A+" << endl;
+
+    else if(average>=80 && average<=90)
+        cout << "Your grade is A" << endl;
+
+    else if(average>=70 && average<=80)
+        cout << "Your grade is B+" << endl;
+
+    else if(average>=60 && average<=70)
+        cout << "Your grade is B" << endl;
+
+    else if(average<60)
+        cout << "Your grade is F" << endl;
+
+    cout << "\n";
+
+    cout << "Your class average is = " << average / 10 ;
+    cout << "\n";
+
+    cout << "Enter student name " << endl;
+    cin >> name >> sur;
+
+
+
+    cout << "Enter your Math score " << endl;
+    cin >> score;
+
+    cout << "Enter your English score " << endl;
+    cin >> score1;
+
+    cout << "Enter your Science score " << endl;
+    cin >> score2;
+
+    cout << "Enter your Computing score " << endl;
+    cin >> score3;
+
+    cout << "Enter your Software score " << endl;
+    cin >> score4;
+
+    average = score + score1 + score2 + score3 + score4;
+
+    if(average>=90)
+        cout << "Your grade is A+" << endl;
+
+    else if(average>=80 && average<=90)
+        cout << "Your grade is A" << endl;
+
+    else if(average>=70 && average<=80)
+        cout << "Your grade is B+" << endl;
+
+    else if(average>=60 && average<=70)
+        cout << "Your grade is B" << endl;
+
+    else if(average<60)
+        cout << "Your grade is F" << endl;
+
+    cout << "\n";
+    double average1;
+    cout << "Your class average is = " << average / 10 ;
+    cout << "\n";
+
+    cout << "Enter student name " << endl;
+    cin >> name >> sur;
+
+
+
+    cout << "Enter your Math score " << endl;
+    cin >> score;
+
+    cout << "Enter your English score " << endl;
+    cin >> score1;
+
+    cout << "Enter your Science score " << endl;
+    cin >> score2;
+
+    cout << "Enter your Computing score " << endl;
+    cin >> score3;
+
+    cout << "Enter your Software score " << endl;
+    cin >> score4;
+
+    average = score + score1 + score2 + score3 + score4;
+
+    if(average>=90)
+        cout << "Your grade is A+" << endl;
+
+    else if(average>=80 && average<=90)
+        cout << "Your grade is A" << endl;
+
+    else if(average>=70 && average<=80)
+        cout << "Your grade is B+" << endl;
+
+    else if(average>=60 && average<=70)
+        cout << "Your grade is B" << endl;
+
+    else if(average<60)
+        cout << "Your grade is F" << endl;
+
+    cout << "\n";
+    double average2;
+    cout << "Your class average is = " << average / 10 ;
+    cout << "\n";
+
+
+    cout << "Enter student name " << endl;
+    cin >> name >> sur;
+
+
+
+    cout << "Enter your Math score " << endl;
+    cin >> score;
+
+    cout << "Enter your English score " << endl;
+    cin >> score1;
+
+    cout << "Enter your Science score " << endl;
+    cin >> score2;
+
+    cout << "Enter your Computing score " << endl;
+    cin >> score3;
+
+    cout << "Enter your Software score " << endl;
+    cin >> score4;
+
+    average = score + score1 + score2 + score3 + score4;
+
+    if(average>=90)
+        cout << "Your grade is A+" << endl;
+
+    else if(average>=80 && average<=90)
+        cout << "Your grade is A" << endl;
+
+    else if(average>=70 && average<=80)
+        cout << "Your grade is B+" << endl;
+
+    else if(average>=60 && average<=70)
+        cout << "Your grade is B" << endl;
+
+    else if(average<60)
+        cout << "Your grade is F" << endl;
+
+    cout << "\n";
+    double average3;
+    cout << "Your class average is = " << average / 10 ;
+    cout << "\n";
+
+
+    cout << "Enter student name " << endl;
+    cin >> name >> sur;
+
+
+
+    cout << "Enter your Math score " << endl;
+    cin >> score;
+
+    cout << "Enter your English score " << endl;
+    cin >> score1;
+
+    cout << "Enter your Science score " << endl;
+    cin >> score2;
+
+    cout << "Enter your Computing score " << endl;
+    cin >> score3;
+
+    cout << "Enter your Software score " << endl;
+    cin >> score4;
+
+    average = score + score1 + score2 + score3 + score4;
+
+    if(average>=90)
+        cout << "Your grade is A+" << endl;
+
+    else if(average>=80 && average<=90)
+        cout << "Your grade is A" << endl;
+
+    else if(average>=70 && average<=80)
+        cout << "Your grade is B+" << endl;
+
+    else if(average>=60 && average<=70)
+        cout << "Your grade is B" << endl;
+
+    else if(average<60)
+        cout << "Your grade is F" << endl;
+
+    cout << "\n";
+    double average4;
+    cout << "Your class average is = " << average / 10 ;
+    cout << "\n";
+
+
+    cout << "Enter student name " << endl;
+    cin >> name >> sur;
+
+
+
+    cout << "Enter your Math score " << endl;
+    cin >> score;
+
+    cout << "Enter your English score " << endl;
+    cin >> score1;
+
+    cout << "Enter your Science score " << endl;
+    cin >> score2;
+
+    cout << "Enter your Computing score " << endl;
+    cin >> score3;
+
+    cout << "Enter your Software score " << endl;
+    cin >> score4;
+
+    average = score + score1 + score2 + score3 + score4;
+
+    if(average>=90)
+        cout << "Your grade is A+" << endl;
+
+    else if(average>=80 && average<=90)
+        cout << "Your grade is A" << endl;
+
+    else if(average>=70 && average<=80)
+        cout << "Your grade is B+" << endl;
+
+    else if(average>=60 && average<=70)
+        cout << "Your grade is B" << endl;
+
+    else if(average<60)
+        cout << "Your grade is F" << endl;
+
+    cout << "\n";
+    double average5;
+    cout << "Your class average is = " << average / 10 ;
+    cout << "\n";
+
+
+    cout << "Enter student name " << endl;
+    cin >> name >> sur;
+
+
+
+    cout << "Enter your Math score " << endl;
+    cin >> score;
+
+    cout << "Enter your English score " << endl;
+    cin >> score1;
+
+    cout << "Enter your Science score " << endl;
+    cin >> score2;
+
+    cout << "Enter your Computing score " << endl;
+    cin >> score3;
+
+    cout << "Enter your Software score " << endl;
+    cin >> score4;
+
+    average = score + score1 + score2 + score3 + score4;
+
+    if(average>=90)
+        cout << "Your grade is A+" << endl;
+
+    else if(average>=80 && average<=90)
+        cout << "Your grade is A" << endl;
+
+    else if(average>=70 && average<=80)
+        cout << "Your grade is B+" << endl;
+
+    else if(average>=60 && average<=70)
+        cout << "Your grade is B" << endl;
+
+    else if(average<60)
+        cout << "Your grade is F" << endl;
+
+    cout << "\n";
+    double average6;
+    cout << "Your class average is = " << average / 10 ;
+    cout << "\n";
+
+
+    cout << "Enter student name " << endl;
+    cin >> name >> sur;
+
+
+
+    cout << "Enter your Math score " << endl;
+    cin >> score;
+
+    cout << "Enter your English score " << endl;
+    cin >> score1;
+
+    cout << "Enter your Science score " << endl;
+    cin >> score2;
+
+    cout << "Enter your Computing score " << endl;
+    cin >> score3;
+
+    cout << "Enter your Software score " << endl;
+    cin >> score4;
+
+    average = score + score1 + score2 + score3 + score4;
+
+    if(average>=90)
+        cout << "Your grade is A+" << endl;
+
+    else if(average>=80 && average<=90)
+        cout << "Your grade is A" << endl;
+
+    else if(average>=70 && average<=80)
+        cout << "Your grade is B+" << endl;
+
+    else if(average>=60 && average<=70)
+        cout << "Your grade is B" << endl;
+
+    else if(average<60)
+        cout << "Your grade is F" << endl;
+
+    cout << "\n";
+    double average7;
+    cout << "Your class average is = " << average / 10 ;
+    cout << "\n";
+
+
+
+    cout << "Enter student name " << endl;
+    cin >> name >> sur;
+
+
+
+    cout << "Enter your Math score " << endl;
+    cin >> score;
+
+    cout << "Enter your English score " << endl;
+    cin >> score1;
+
+    cout << "Enter your Science score " << endl;
+    cin >> score2;
+
+    cout << "Enter your Computing score " << endl;
+    cin >> score3;
+
+    cout << "Enter your Software score " << endl;
+    cin >> score4;
+
+    average = score + score1 + score2 + score3 + score4;
+
+    if(average>=90)
+        cout << "Your grade is A+" << endl;
+
+    else if(average>=80 && average<=90)
+        cout << "Your grade is A" << endl;
+
+    else if(average>=70 && average<=80)
+        cout << "Your grade is B+" << endl;
+
+    else if(average>=60 && average<=70)
+        cout << "Your grade is B" << endl;
+
+    else if(average<60)
+        cout << "Your grade is F" << endl;
+
+    cout << "\n";
+    double average8;
+    cout << "Your class average is = " << average / 10 ;
+    cout << "\n";
+
+
+
+    cout << "Enter student name " << endl;
+    cin >> name >> sur;
+
+
+
+    cout << "Enter your Math score " << endl;
+    cin >> score;
+
+    cout << "Enter your English score " << endl;
+    cin >> score1;
+
+    cout << "Enter your Science score " << endl;
+    cin >> score2;
+
+    cout << "Enter your Computing score " << endl;
+    cin >> score3;
+
+    cout << "Enter your Software score " << endl;
+    cin >> score4;
+
+    average = score + score1 + score2 + score3 + score4;
+
+    if(average>=90)
+        cout << "Your grade is A+" << endl;
+
+    else if(average>=80 && average<=90)
+        cout << "Your grade is A" << endl;
+
+    else if(average>=70 && average<=80)
+        cout << "Your grade is B+" << endl;
+
+    else if(average>=60 && average<=70)
+        cout << "Your grade is B" << endl;
+
+    else if(average<60)
+        cout << "Your grade is F" << endl;
+
+    cout << "\n";
+    double average9;
+    cout << "Your class average is = " << average / 10 ;
+    cout << "\n";
+
+
+    double totalaverage;
+    totalaverage = average + average1 + average2 + average3 + average4 + average5 + average6 + average7 + average8 + average9;
+    cout << "\n";
+    cout << "Your total average = " << totalaverage << endl;
+    cout << "\n";
+    cout << "Your class average = " << totalaverage / 10;
+    return 0;
+}
+
